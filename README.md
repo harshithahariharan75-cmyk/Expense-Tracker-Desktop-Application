@@ -29,8 +29,8 @@ Expense data is stored permanently using an SQLite database
 
 ## Project Structure
 
-main.py         # Run the application
-app.py          # UI logic and application features
-database.py     # Database operations
+main.py         # Run the application ;
+app.py          # UI logic and application features ;
+database.py     # Database operations ;
 expense.db      # SQLite database
 
